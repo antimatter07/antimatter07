@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Matthew!
 =================================================================================================================================
 
-Developer
+Developer, Researcher, Problem-Solver
 ---------
 
 I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development, systems optimization and AI research. I'm a recent graduate of De La Salle University, where I earned my BS in Computer Science Major in Software Technology.
