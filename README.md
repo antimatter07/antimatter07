@@ -23,7 +23,7 @@ I'm a software developer passionate about solving problems with technology. I ha
 
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=antimatter07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=antimatter07&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
