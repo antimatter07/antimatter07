@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer, Researcher, Problem-Solver
 ---------
-I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development and AI research. In my previous company, I worked as a software developer where I was involved in every part of the SLDC from requirements engineering and front-end / API development and drove development to UAT and signifcantly enhanced user responsiveness of existing systems through solving performance bottlenecks in the backend. I also have a strong interest in AI.
+I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development and AI research.
 
 * 🌍  I'm based in the Philippines
 * 🎓  Education: BS in Computer Science (Major in Software Technology), [De La Salle University](https://www.dlsu.edu.ph/)
@@ -21,9 +21,17 @@ I'm a software developer passionate about solving problems with technology. I ha
 <p align="left"> <a href="https://www.github.com/antimatter07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/matthew-james-villarica-3337b4223/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 
-<b>My GitHub Stats</b>
 
-<a href="https://github.com/antimatter07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=antimatter07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=antimatter07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=antimatter07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
