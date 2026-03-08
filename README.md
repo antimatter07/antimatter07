@@ -3,12 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer, Researcher, Problem-Solver
 ---------
-
-I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development, systems optimization and AI research. I'm a recent graduate of De La Salle University, where I earned my BS in Computer Science Major in Software Technology.
+I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development and AI research. In my previous company, I worked as a software developer in an Agile environment where I was involved in every part of the SLDC from requirements engineering and front-end / API development and drove development to UAT and signifcantly enhanced user responsiveness of existing systems through solving performance bottlenecks in the backend. I also have a strong interest in AI.
 
 * 🌍  I'm based in the Philippines
+* 🎓  Education: BS in Computer Science (Major in Software Technology), [De La Salle University](https://www.dlsu.edu.ph/)
 * ✉️  You can contact me at [matthewvillarica@gmail.com](mailto:matthewvillarica@gmail.com)
-* 🧠  I'm currently learning backend development and systems design!
+* 🧠  I'm currently learning backend development and systems design
+* 📄  You can view my resume here: [Resume](https://drive.google.com/file/d/1ik8tWADngm0Xm3tPXw_zior_wWTW-u-y/view)
 
 ### Skills
 <p align="left">
