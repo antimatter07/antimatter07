@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer, Researcher, Problem-Solver
 ---------
-I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development and AI research. In my previous company, I worked as a software developer in an Agile environment where I was involved in every part of the SLDC from requirements engineering and front-end / API development and drove development to UAT and signifcantly enhanced user responsiveness of existing systems through solving performance bottlenecks in the backend. I also have a strong interest in AI.
+I'm a software developer passionate about solving problems with technology. I have a background in full-stack software development and AI research. In my previous company, I worked as a software developer where I was involved in every part of the SLDC from requirements engineering and front-end / API development and drove development to UAT and signifcantly enhanced user responsiveness of existing systems through solving performance bottlenecks in the backend. I also have a strong interest in AI.
 
 * 🌍  I'm based in the Philippines
 * 🎓  Education: BS in Computer Science (Major in Software Technology), [De La Salle University](https://www.dlsu.edu.ph/)
