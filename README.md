@@ -17,13 +17,38 @@ I'm a software developer passionate about solving problems with technology. I ha
 
 <div style="display: flex; gap: 2px; align-items: center;">
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/vite" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/celery" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/cloudflare" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/pytest" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/gitlab" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/jira" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
 <div>
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=antimatter07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antimatter07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antimatter07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ### Socials
