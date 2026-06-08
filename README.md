@@ -40,10 +40,17 @@ I'm a software developer passionate about solving problems with technology. I ha
   <img src="https://iconic-api.onrender.com/dark/gitlab" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/jira" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/android-studio" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/pandas" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
 <div>
+
 
 
 
